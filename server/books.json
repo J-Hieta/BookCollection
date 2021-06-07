@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy adventure"
+  },
+  {
+    "title": "Game of Thrones",
+    "author": "George R.R. Martin",
+    "description": "Another epic fantasy adventure"
+  },
+  {
+    "title": "Mass Effect: Revelation",
+    "author": "Drew Karpyshyn",
+    "description": "A Science fiction novel set in the Mass Effect universe"
+  }
+]
