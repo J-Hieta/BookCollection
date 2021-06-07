@@ -23,7 +23,7 @@ npm run database reset
 
 To run the client and server applications concurrently, run the following command on the root folder:
  ```
-npm run dev
+npm start
 ```
 Client is run on port 3000 and server on port 4000
 
